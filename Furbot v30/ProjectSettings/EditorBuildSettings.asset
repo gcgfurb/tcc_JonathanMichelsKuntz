@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/1.Inicio/MenuPrincipal.unity
+    guid: 4f27b9b8c2036114ab8e3f6af13a11b1
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/SelecaoDeFases.unity
+    guid: a06d96c605994aa44aca194e79d114b7
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Amazonia/Fase 1.unity
+    guid: cbfb33fe7e8d26f438a3a563e295e452
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Amazonia/Fase 2.unity
+    guid: 331cc3712dc57074ebebf9400efdc8b7
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Amazonia/Fase 3.unity
+    guid: adc5d0fcd4ba72640a8509a8c1131d52
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Amazonia/Fase 4.unity
+    guid: f30f0119788be764fac9d9bd30eeb9b2
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Amazonia/Fase 5.unity
+    guid: ea53ca52d7edd7f4480bbcfeced74e3a
+  - enabled: 1
+    path: Assets/_Scenes/4.Outros/Fim da Beta.unity
+    guid: b836b7c578b82804e9a1882cb863aa00
+  - enabled: 1
+    path: Assets/_Scenes/3.Gerador/FaseGerada.unity
+    guid: 3592414cd20c18d498875918d82fd03b
+  - enabled: 1
+    path: Assets/_Scenes/3.Gerador/GeradorDeFases.unity
+    guid: 0db257070aea8d840b3cc53c87d244b8
+  m_configObjects: {}

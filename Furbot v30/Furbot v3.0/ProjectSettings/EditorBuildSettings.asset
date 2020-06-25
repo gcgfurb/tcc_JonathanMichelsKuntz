@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/1.Inicio/MenuPrincipalCadastro.unity
+    guid: 9c47dc7384bfa4640a7154bfdb4cd956
+  - enabled: 1
+    path: Assets/_Scenes/1.Inicio/MenuPrincipal.unity
+    guid: 4f27b9b8c2036114ab8e3f6af13a11b1
+  - enabled: 0
+    path: Assets/_Scenes/1.Inicio/Historia.unity
+    guid: 380fe9954c704b94d92b32083f53a58b
+  - enabled: 1
+    path: Assets/_Scenes/1.Inicio/TutorialProjecao.unity
+    guid: c789eb05607c0fa479231964ee39bd49
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/SelecaoDeFases.unity
+    guid: a06d96c605994aa44aca194e79d114b7
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Amazonia/Fase 1.unity
+    guid: cbfb33fe7e8d26f438a3a563e295e452
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Amazonia/Fase 2.unity
+    guid: 331cc3712dc57074ebebf9400efdc8b7
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Amazonia/Fase 3.unity
+    guid: adc5d0fcd4ba72640a8509a8c1131d52
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Amazonia/Fase 4.unity
+    guid: f30f0119788be764fac9d9bd30eeb9b2
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Amazonia/Fase 5.unity
+    guid: ea53ca52d7edd7f4480bbcfeced74e3a
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Egito/Fase 6.unity
+    guid: 8e2fa4dced17a9849afea5edac085690
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Egito/Fase 6.2.unity
+    guid: ceca4b10941a6a944a0bd5ece0761612
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Egito/Fase 7.unity
+    guid: 0147a8f5fdf3f804e9b2ab96b75daa8c
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Egito/Fase 7.2.unity
+    guid: e4e8531c1b55e644c8ff3a7bf38eadef
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Egito/Fase 8.unity
+    guid: 53371f538b5ffde4196770a897e75ad8
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Egito/Fase 8.2.unity
+    guid: 43023ff91d94f634985137e3b4afca62
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Egito/Fase 9.unity
+    guid: 4c83460a00176dd4abbce4bda037cc90
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Egito/Fase 9.2.unity
+    guid: 6ae360dba6e5f8d45a74f7124572dd2b
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Egito/Fase 10.unity
+    guid: c958efcdee9b6454bb81d4a90bc6d0a5
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Egito/Fase 10.2.unity
+    guid: 17667e1fbcdcad049adfe5ec26349822
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Siberia/Fase 11.unity
+    guid: 5fa7c067296b16f4fb4181a9de25f17f
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Siberia/Fase 11.2.unity
+    guid: d0d657f0416f79449a120682fcb6f275
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Siberia/Fase 12.unity
+    guid: 21e2544a7e992a34f900b29543981625
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Siberia/Fase 12.2.unity
+    guid: 811650310427444408e3b1cd464f427f
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Siberia/Fase 13.unity
+    guid: 486aa23b664018341aefe6ff881f07fa
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Siberia/Fase 13.2.unity
+    guid: c76300ff963abcd409e5c88328643e1a
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Siberia/Fase 14.unity
+    guid: eadcfbd827925924a9e885877896b3e7
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Siberia/Fase 14.2.unity
+    guid: cc809a9b03d8cd64fb77e95e228475b6
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Siberia/Fase 15.unity
+    guid: c736247fa600fc648858362c331fdb1b
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Siberia/Fase 15.2.unity
+    guid: df5b38944643fa447937b41153eff0f7
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 16.unity
+    guid: b39116f31f252e4468f2ebbc193bfb1a
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 16.2.unity
+    guid: 45b6adb2a7a699f41807dc2799f3bda2
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 16.3.unity
+    guid: 132c0d449385c254281089a4d867bc05
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 17.unity
+    guid: a141e35f20630504fa9894832032febd
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 17.2.unity
+    guid: ef9bc75004ad5cf47ad4e3a37eeeabc9
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 17.3.unity
+    guid: 309c39009ff41094c9cf0ae1f12826ee
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 18.unity
+    guid: 36f6613a8f50fbd42b4bf01ae7bacf4d
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 18.2.unity
+    guid: 0ed9c057b92fecb4c9bf439fa894f882
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 18.3.unity
+    guid: fe14b00adf1bbf541a653ac06d4013a0
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 19.unity
+    guid: bf88a2366ee4f4b4b8888113e3fbe523
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 19.2.unity
+    guid: 522b5e24144e2b94f8defc819f492244
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 19.3.unity
+    guid: 3943793edf51ad04ebe2de92efc99340
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 20.unity
+    guid: ae8c9d828e2e52e4da3088621c0f4399
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 20.2.unity
+    guid: 3d5db9c30c86c1f468c1843a24b2fde3
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 20.3.unity
+    guid: 38b2f2d4575e5dc4fa6c793819d46645
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Nave/Fase 20.4.unity
+    guid: 9b92f0c73bf26054e9fe5193daa361dc
+  - enabled: 0
+    path: Assets/_Scenes/4.Outros/Fim da Beta.unity
+    guid: b836b7c578b82804e9a1882cb863aa00
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Minigames/MiniGame_Quiz.unity
+    guid: 43bc8054f28ffa8419703796653b640a
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Minigames/MiniGame_Lixo.unity
+    guid: 15cfd0c34ceb6e941b2ec9f831a3f76a
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Minigames/MiniGame_Iglu.unity
+    guid: 69259e4a64f7f044db360ae37b91cf3f
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Minigames/MiniGame_Pesca.unity
+    guid: b938d6f7cf30e4a4394a5c1145129a6c
+  - enabled: 1
+    path: Assets/_Scenes/2.FasesCampanha/Minigames/MiniGame_CaboDeGuerra.unity
+    guid: 070394c0a09605448bd29de2a329e933
+  - enabled: 1
+    path: Assets/_Scenes/3.Gerador/FaseGerada.unity
+    guid: 3592414cd20c18d498875918d82fd03b
+  - enabled: 1
+    path: Assets/_Scenes/3.Gerador/GeradorDeFases.unity
+    guid: 0db257070aea8d840b3cc53c87d244b8
+  m_configObjects: {}
