@@ -1,0 +1,20 @@
+- Necessita ter instalado a versão do unity 2019.2.3f1 juntamente com o módulo "Android Build Support" instalado.
+	1) Caso não tenha deve ser instalado o Unity Hub;
+        2) Abrir o Unity Hub;
+	3) Ir na opção "Projects";
+	4) Clicar na opção "ADD", e localizar a pasta do projeto extraido;
+	5) Após o projeto aparecer, clicar na opção "Unity Version: 2019.2.3f1" onde vai ter um triângulo do lado direito;
+	6) Na mensagem que aparecer "Missing editor version 2019.2.3f1" on this machine. Select another version from the list or install it" clicar em "INSTALL";
+        7) Será redirecionado a uma tela onde vai ter várias opções de plataforma, deve deixar marcada a opção "Android Buld Support", e clicar em "INSTALL";
+	8) Após a instalação basta ir em "Projects" e selecionar o projeto;
+
+- Necessita ter instalado o Microsoft Visual Studio para programação dos scripts
+- Necessita ser baixado o Asset do Opencv 4.3 para Unity na versão de preferencia 2.3.9. É possível encontrar no site https://enoxsoftware.com.
+	1) Após baixar o Asset e abrir o projeto no Unity, deve carregar o mesmo no projeto;
+	2) Para importar deve ser clicado em "Assets > Import Package > Custom Package" e selecionar o Asset baixado anteriormente;
+	3) Quando abrir a tela de seleção dos modelos que deseja importar, deixar marcado as seguintes opções:
+		- OpenCVForUnity;
+		- Editor;
+		- org;
+		- Plugins.
+	4) Por fim basta clicar em "Import" e finalizar a importação.
