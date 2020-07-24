@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Buggien
+  - Tesouro
+  - Grama
+  - Areia
+  - Pedra
+  - Arvore
+  - Arbusto
+  - Agua
+  - Cenario
+  - Caminho
+  - Energia
+  - Vida
+  - CaminhoTerra
+  - CaminhoAreia
+  - CaminhoEstrada
+  - Coletavel
+  - InventorySlot
+  - Porta
+  - Trigger
+  - Esteira
+  - Parede
+  - Meleca
+  - Canvas
+  - CaminhoAgua
+  - lixo
+  - seta
+  - socket
+  - lata
+  - Fase
+  - Letra
+  - Moldura
+  - ParedePiramide
+  - SilabasEnquanto
+  - SilabaEn
+  - Farao
+  - SilabaQuan
+  - SilabaTo
+  - Vitoria
+  - SilabasSeSenao
+  - Peixe
+  - Valvula
+  - ProximaFase
+  - Chave
+  - Alavanca
+  - Laboratorio
+  - Papiro01
+  - Papiro02
+  - PlacaPressao
+  - Papiro03
+  - BaseValvula
+  - Esquimo
+  - LataLixo
+  - Lixo
+  - Gatilho
+  - Selectable
+  - Target
+  - Morte
+  - Caixa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3944463361
+    locked: 0
+  - name: Foreground
+    uniqueID: 1761664513
+    locked: 0

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 21531315b130e8d458ed7e5e5decdda2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 300
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Insaniburger with Cheese
+  fontNames:
+  - Insaniburger with Cheese
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2897662a83838dd4390befdd959ca6d5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

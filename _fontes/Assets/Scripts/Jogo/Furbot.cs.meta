@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: b07b10c1a748bdf46b2cb428271217e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _spriteRenderer: {instanceID: 0}
+  - _campoDeTexto: {instanceID: 0}
+  - _btExecutar: {instanceID: 0}
+  - _energiaQnt: {instanceID: 0}
+  - _tesouroQnt: {instanceID: 0}
+  - _vidasQnt: {instanceID: 0}
+  - _tesouroUp: {instanceID: 0}
+  - _pontuacao: {instanceID: 0}
+  - vida1: {instanceID: 0}
+  - vida2: {instanceID: 0}
+  - vida3: {instanceID: 0}
+  - vida4: {instanceID: 0}
+  - _btRecomeco: {instanceID: 0}
+  - _terreno: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

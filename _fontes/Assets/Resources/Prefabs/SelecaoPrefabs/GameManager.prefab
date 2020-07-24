@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1467140913936436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4631315378337252}
+  - component: {fileID: 114684966569852090}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4631315378337252
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1467140913936436}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.7613597, y: -4.0506973, z: 0.01953125}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114684966569852090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1467140913936436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc7ade67126c52d4b8e79e62f7f16c60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiManager: {fileID: 0}
+  silabas: []
+  energia: 100
+  contadorTesouro: 0
+  vida: 3
+  pontuacaoTotal: 0
+  tesourosCenaAnterior: 0
+  pontuacaoIntermediaria: 0
+  qtdeItensParaColetar: 0
+  tagVitoria: 
+  codigoIntermediario: 
+  gameOver: 0
+  enquanto: 0
+  se: 0
+  senao: 0
+  qtdeItensAtuaisInventario: 0
+  coletaveisColetados: []
+  inventario: []
+  todosItensJogo:
+  - {fileID: 1519655678117548, guid: c943f90684d73cd4d8ca6754c809aa71, type: 3}
+  - {fileID: 1725369504818354, guid: c28b8936c0ceb03419b5d9a71b25e37c, type: 3}
+  - {fileID: 6044544896200092753, guid: 4117d58427a8f1742804502773d7bee2, type: 3}
+  - {fileID: 4319378963459928133, guid: 38e22e41ffdf8f4459b254d31540f5bb, type: 3}
